@@ -1,0 +1,18 @@
+#Titulo {
+    font-size: 200px;
+}
+
+#Mensaje{
+    display: none;
+    font-size: 50px;
+}
+
+#boton{
+font-size: 50px;
+font-style: oblique;
+background-color: darkgreen;
+color:gainsboro;
+border-radius: 100px;
+border-width: 9px;
+border-color: mediumslateblue;
+}
