@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    document.getElementById().addEventListener('click', function() {
-        document.getElementById().style.display = 'block'
+    document.getElementById('boton').addEventListener('click', function() {
+        document.getElementById('Mensaje').style.display = 'block'
     })
 })
